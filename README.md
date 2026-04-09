@@ -42,3 +42,17 @@ glass_html5/
 ├── fotos.html    # Galeria de Imagens
 ├── specs.html    # Especificações Técnicas
 └── fale-conosco.html # Formulário de Contato
+
+
+````
+<br>
+---
+
+## ⚖️ Direitos e Créditos
+Este projeto possui finalidade estritamente educacional.
+
+* **Instrutor:** Gustavo Guanabara
+
+* **Plataforma:** Curso em Vídeo
+
+**Direitos de Imagem e Design: Todos os assets (imagens, logotipos e layout sugerido) são de propriedade intelectual do Curso em Vídeo.**
